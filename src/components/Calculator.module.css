@@ -1,0 +1,20 @@
+.calculator {
+    text-align: center;
+}
+
+.calculator span {
+    font-weight: bolder;
+    font-size: 30px;
+    color: aqua;
+}
+.numbers {
+    width: 500px;
+  }
+
+.delete {
+    width: 100px;
+}
+
+.resultLink {
+    padding-top: 30px;
+}
